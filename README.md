@@ -1,2 +1,3 @@
 # Student-Dashboard
-Fullstack App with React + Spring
+
+Fullstack SPA App with React + Spring
