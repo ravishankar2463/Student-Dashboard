@@ -104,7 +104,7 @@ function RegisteredCourses({}: Props) {
                 className="cursor-pointer underline text-3xl pt-5"
                 onClick={() =>
                   navigate(
-                    `/home/${authCtx.loggedInStudent?.id}/registeredCourses/${authCtx.loggedInStudent?.id}`
+                    `/home/${authCtx.loggedInStudent?.id}/registerNewCourse/${authCtx.loggedInStudent?.id}`
                   )
                 }
               >
