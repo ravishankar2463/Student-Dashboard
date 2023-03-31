@@ -2,7 +2,7 @@
 
 Fullstack SPA App with React + Spring
 
-[<img src="https://github.com/ravishankar2463/Student-Dashboard/blob/main/images/Login.png?raw=true" width="50%">](https://www.youtube.com/watch?v=MLWqfozmlPI)
+https://user-images.githubusercontent.com/44739316/229077529-cc0328e2-f39f-4794-bfc8-18509d1dc0ae.mp4
 
 Images:
 
