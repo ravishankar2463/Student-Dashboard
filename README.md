@@ -12,6 +12,8 @@ Front-End Technologies Used :
 
 - React
 - React-Router
+- React Query
+- Tailwind Css
 
 Back-End Technologies Used :
 
