@@ -20,4 +20,4 @@ Back-End Technologies Used :
 - Spring
 - Spring Security
 
-**Cookie Based** authentication is used to fo session management.
+**Cookie Based** authentication is used for session management.
